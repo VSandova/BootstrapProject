@@ -1,0 +1,40 @@
+.title{
+	background: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.8)), url(rudozem.jpg) no-repeat center ;
+    width: 100%;
+    height: 35vh;
+    background-size: cover;
+}
+.title p{
+	padding-top: 70px; 
+	font-size: 50px; 
+	color: white;
+}
+.title h1{
+	padding-top: 70px; 
+	font-size: 50px; 
+	color: white;
+}
+#buton{
+	background-color: #333; 
+	color: yellow;
+}
+#contact{
+	background-color: #333; 
+	color: white; 
+	border-radius: 20px; 
+	padding: 30px;
+}
+.icon i{
+font-size: 50px; 
+float: left; 
+padding:10px;
+}
+.location-contact p{
+font-size: 25px;
+}
+.phone-contact p{
+	font-size: 25px;
+}
+.email-contact p{
+font-size: 25px;
+}

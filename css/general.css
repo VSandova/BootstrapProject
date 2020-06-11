@@ -1,0 +1,28 @@
+/* Стилове на меню */ 
+
+#link{
+	color: yellow;
+	padding:20px;
+    font-size: 22px;
+
+}
+
+#navcol-1{
+  float: right;
+
+}
+#navcol-1 li{
+font-size: 20px;
+}
+
+/* Стилове на footer */ 
+.fa{
+  color: yellow;
+}
+.footer-basic{
+   background-color:#333; 
+   padding-top:60px; 
+   padding-bottom: 10px; 
+}
+
+

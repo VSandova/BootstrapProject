@@ -1,0 +1,31 @@
+.title{
+	background: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.8)), url(6.jpg) no-repeat center ;
+    width: 100%;
+    height: 35vh;
+    background-size: cover;
+}
+.title h1{
+	padding-top: 70px; 
+	font-size: 50px; 
+	color: white;
+}
+.professions{
+	padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#profession{
+padding-top: 20px;
+    padding-bottom: 20px;
+}
+#panel-group{
+		border-radius: 20px;
+	 box-shadow: 0 4px 8px 0 rgba(0.2, 0, 0, 0),  0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	     margin-bottom: 50px;
+    margin-top: 10px;
+}
+
+#b-profesia{
+	font-size: 20px; 
+	color: yellow;
+}

@@ -1,0 +1,51 @@
+/*Стилове header */
+.title{
+	background: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.8)), url(rudmetal.jpg) no-repeat;
+    width: 100%;
+    height: 35vh;
+    background-size: cover;
+}
+.title h1{
+	padding-top: 70px; 
+	font-size: 50px; 
+	color: white;
+}
+.content{
+	padding-top: 50px;
+}
+
+.content a{
+font-size: 25px; font-weight: 700; color: black;
+}
+
+/*Стилове history*/
+.history{
+	background-color: #333; 
+	color: white; 
+	padding-bottom: 40px;
+}
+.history h1{
+	padding:40px; 
+	padding-bottom: 10px;
+}
+.history p{
+font-size: 20px;
+}
+
+.certificates h1{
+	padding:40px;
+}
+.certificates p{
+font-size: 20px;
+}
+
+
+.partners{
+background-color: #989898;
+}
+.partners h1{
+	text-align: center; 
+	color: white; 
+	padding-top: 20px; 
+	padding-bottom:40px;
+}
